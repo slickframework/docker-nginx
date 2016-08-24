@@ -48,7 +48,7 @@ Thanks to Jinja, templates are extensible. Here's an overview of the hierarchy:
     .
     └── default
         └── php
-            
+            └── slick
 
 All of these are valid values for `CONF_APP`.
 

@@ -1,5 +1,7 @@
 # Nginx
 
+[![](https://images.microbadger.com/badges/image/slickframework/nginx.svg)](https://microbadger.com/images/slickframework/nginx "Get your own image badge on microbadger.com")
+
 This is a **very flexible** nginx image, with support for several types of applications.
 
 Based on [helderco's work](https://github.com/helderco/docker-nginx).
